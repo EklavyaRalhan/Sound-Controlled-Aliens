@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+    font-family: 'Special Elite';
+}
+
+button
+{
+    background-color: chocolate;
+    border:5px black double;
+}
+
+.header_div
+{
+color: #ce2700;
+}
+
+.header_div p
+{
+    font-family: 'Roberto', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
